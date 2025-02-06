@@ -1,8 +1,13 @@
-import React from 'react'
+import './Header.css'
 
 function Header() {
   return (
-    <div>Header</div>
+    <div className='container-header'>
+      <p>Hisashiburi-dana, mugiwara</p>
+      <p>nika</p>
+      <p>nika</p>
+
+    </div>
   )
 }
 

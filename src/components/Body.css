@@ -1,0 +1,6 @@
+.container-body {
+    height: calc(100vh - 60px);
+    background-color: rgba(253, 219, 25, 0.753);
+    display: flex;
+    justify-content: center;
+}
