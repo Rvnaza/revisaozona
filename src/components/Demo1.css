@@ -1,3 +1,9 @@
-.container-demo1 {
-    border: 1px solid rgb(46, 247, 46);
+.container-demo1{
+    border: 1px solid rgb(43, 243, 93);
+}
+.img-dev{
+    width: 35%;
+}
+.icone:hover{
+    scale: 2;
 }
