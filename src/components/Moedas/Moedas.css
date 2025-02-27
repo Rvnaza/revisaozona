@@ -1,0 +1,7 @@
+.container-moedas{
+    width: 90%;
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}

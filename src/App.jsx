@@ -1,7 +1,7 @@
 import './App.css'
-import Body from './components/Body'
-import Demo1 from './components/Demo1'
-import Header from './components/Header'
+import Body from './components/Body/Body'
+// import Demo1 from './components/Demo/Demo1'
+import Header from './components/Header/Header'
 
 function App() {
   return (
